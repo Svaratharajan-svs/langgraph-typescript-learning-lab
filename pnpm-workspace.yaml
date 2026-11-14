@@ -1,0 +1,6 @@
+packages:
+  - 'exercises/*'
+allowBuilds:
+  esbuild: true
+minimumReleaseAgeExclude:
+  - '@langchain/core@1.4.1'
